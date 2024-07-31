@@ -72,6 +72,9 @@ img {
   color: #E95E10;
   font-weight: bold;
 }
+ul{
+  padding-left: 20px;
+}
 ul li::marker {
   color: #333333;
 }
