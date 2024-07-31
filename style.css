@@ -25,6 +25,9 @@ h1 h2 h3 {
   color: #1B1B1B;
   margin-bottom: 2px;
 }
+p {
+  margin-top: 10px;
+}
 #page {
   width: 1120px;
   margin: 88px auto;
@@ -46,6 +49,7 @@ img {
 }
 .bold {
   font-weight: bold;
+  margin-top: 20px;
 }
 .divider {
   width: 100%;
